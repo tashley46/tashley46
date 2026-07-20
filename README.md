@@ -32,20 +32,6 @@ I'm currently a Design Intern at **NIAR DARC**, where I contribute to 'Resources
 
 `SQL Server` `DuckDB` `Git` `GitHub` `Visual Studio` `VS Code` `JupyterLab`
 
-## Featured work
-
-### K-State DataFest 2026
-
-My team analyzed a large confidential healthcare survey dataset and identified associations between external factors and elevated risk of severe mental-health outcomes. We received the competition's **Best Technical Application** award.
-
-### Resources Tool
-
-An internal NIAR DARC application for planning project staffing requirements, employee support, and workforce capacity. The source code and company data are not public.
-
-### Homelab Dashboard
-
-A local-first desktop control panel for tasks, schedules, repositories, and homelab configuration. This project is being developed as a focused weekend-build project.
-
 ## Fun facts
 
 - I'm pursuing one degree with two majors: Computer Science and Mathematics.
